@@ -26,4 +26,24 @@ open command prompt and change the directory to desktop
 
 Type the command: copy /b PictureName.jpg + FolderName.zip OutputFileName.jpg
 
+**Step-6 How to execute**
+
+**Download this image** https://drive.google.com/file/d/1NaFLENRSeOWc8ZnXxSEwvOOaCoNMmpiy/view?usp=sharing
+
+**Step-7**
+
+move this image to the desktop and open cmd on desktop
+
+**Step-8**
+
+now run this command in cmd **ren final.jpg final.zip**
+
+**Step-9**
+
+open zip file with winrar
+
+**Step-10**
+
+There are 2 file you will see.
+
 **Source**: https://www.instagram.com/p/CQc_ZBhjUG8/?utm_medium=copy_link
